@@ -1,0 +1,4 @@
+authority,degraded,delayed,nominal
+adaptive,4.0,0.0,0.0
+baseline,8.0,0.0,0.0
+proactive,6.0,0.0,0.0
